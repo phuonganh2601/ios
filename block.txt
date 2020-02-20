@@ -5,5 +5,6 @@
 ||gdmf.apple.com^$empty
 ||xp.apple.com^$empty
 ||xp.itunes-apple.com.akadns.net^$empty
-||xp.itunes-apple.com.edgekey.net^$empty
+||xp.apple.com.edgekey.net^$empty
+||e17437.dscb.akamaiedge.net^$empty
 ||gdmf.apple.com.akadns.net^$empty
