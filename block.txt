@@ -1,10 +1,6 @@
-||ocsp.int-x3.letsencrypt.org^$empty
-||ocsp.apple.com^$empty
-||world-gen.g.aaplimg.com^$empty
-||mesu.apple.com^$empty
-||gdmf.apple.com^$empty
-||xp.apple.com^$empty
-||xp.itunes-apple.com.akadns.net^$empty
-||xp.apple.com.edgekey.net^$empty
-||e17437.dscb.akamaiedge.net^$empty
-||gdmf.apple.com.akadns.net^$empty
+||ocsp.int-x3.letsencrypt.org^
+||ocsp.apple.com^
+||world-gen.g.aaplimg.com^
+||mesu.apple.com^
+||gdmf.apple.com^
+||xp.apple.com^
