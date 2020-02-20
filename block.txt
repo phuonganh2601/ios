@@ -4,3 +4,6 @@
 ||mesu.apple.com^$empty
 ||gdmf.apple.com^$empty
 ||xp.apple.com^$empty
+||xp.itunes-apple.com.akadns.net^$empty
+||xp.itunes-apple.com.edgekey.net^$empty
+||gdmf.apple.com.akadns.net^$empty
